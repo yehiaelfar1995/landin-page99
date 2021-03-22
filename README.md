@@ -1,22 +1,22 @@
-#Project-Landing Page 
+# Project-Landing Page 
 
 Simple multisection landing-page
 
 
-##Used technologies
+## Used technologies
 
 Project created with:
 * HTML5
 * CSS
 * JAVASCRIPT (ES6)
 
-##Main-functionalty
+## Main-functionalty
 
 * dynamic navigation-bar
 * section is being highlighted while scrolling through the page
 * When clicking an item from the navigation menu the link will scroll to the appropriate section.
 
-##Usability
+## Usability
 
 -tablet,mobile and desktop
 
